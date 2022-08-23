@@ -1,9 +1,9 @@
 [
   {
-    "firstName": "Barry",
-    "lastName": "Alan",
+    "firstName": "Vishal",
+    "lastName": "Unnikrishnan",
     "dob": "01/01/1990",
-    "email": "fake@mail.com",
+    "email": "richinvishal@gmail.com",
     "password": "fake123;",
     "address": "123 Fake St",
     "city": " Fakeville ",
@@ -93,7 +93,7 @@
     "firstName": "Bruce",
     "lastName": "Wayne",
     "dob": "01/01/1990",
-    "email": "fake@mail.com",
+    "email": "vishalatwork@gmail.com",
     "password": "fake123;",
     "address": "123 Fake St",
     "city": " Fakeville ",
