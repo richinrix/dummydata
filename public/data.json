@@ -2,6 +2,7 @@
   {
     "firstName": "Vishal",
     "lastName": "Unnikrishnan",
+    "image": "https://robohash.org/vishal.png",
     "dob": "01/01/1990",
     "email": "richinvishal@gmail.com",
     "password": "fake123;",
@@ -14,6 +15,38 @@
     "totalTransactions": 103120,
     "totalLikes": 143200,
     "totalUsers": 213,
+    "topProducts": [
+      {
+        "name": "Basic Tees",
+        "percentage": "54.2%"
+      },
+      {
+        "name": "Hoodies",
+        "percentage": "23.1%"
+      },
+      {
+        "name": "Sweatshirts",
+        "percentage": "12.3%"
+      },
+      {
+        "name": "Pants",
+        "percentage": "10.4%"
+      }
+    ],
+    "schedule": [
+      {
+        "title": "Meeting with CEO",
+        "date": "01/01/2019",
+        "time": "12:00 PM",
+        "location": "123 Fake St"
+      },
+      {
+        "title": "Meeting with CTO",
+        "date": "01/01/2019",
+        "time": "1:00 PM",
+        "location": "123 Fake St"
+      }
+    ],
     "userRecords": [
       {
         "name": "John Doe",
@@ -92,6 +125,7 @@
   {
     "firstName": "Bruce",
     "lastName": "Wayne",
+    "image": "https://robohash.org/bruce.png",
     "dob": "01/01/1990",
     "email": "vishalatwork@gmail.com",
     "password": "fake123;",
@@ -104,6 +138,38 @@
     "totalTransactions": 103120,
     "totalLikes": 143200,
     "totalUsers": 213,
+    "topProducts": [
+      {
+        "name": "Basic Tees",
+        "percentage": "54.2%"
+      },
+      {
+        "name": "Hoodies",
+        "percentage": "23.1%"
+      },
+      {
+        "name": "Sweatshirts",
+        "percentage": "12.3%"
+      },
+      {
+        "name": "Pants",
+        "percentage": "10.4%"
+      }
+    ],
+    "schedule": [
+      {
+        "title": "Meeting with CEO",
+        "date": "01/01/2019",
+        "time": "12:00 PM",
+        "location": "123 Fake St"
+      },
+      {
+        "title": "Meeting with CTO",
+        "date": "01/01/2019",
+        "time": "1:00 PM",
+        "location": "123 Fake St"
+      }
+    ],
     "userRecords": [
       {
         "name": "John Doe",
