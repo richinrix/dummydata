@@ -107,18 +107,64 @@
     ],
     "activity": {
       "user": {
-        "week1": 150,
-        "week2": 321,
-        "week3": 333,
-        "week4": 234,
-        "week5": 203
+        "May-June": {
+          "week1": 150,
+          "week2": 321,
+          "week3": 333,
+          "week4": 234,
+          "week5": 203
+        },
+        "July-Aug": {
+          "week1": 344,
+          "week2": 111,
+          "week3": 555,
+          "week4": 400,
+          "week5": 300
+        },
+        "Sept-Oct": {
+          "week1": 150,
+          "week2": 321,
+          "week3": 333,
+          "week4": 234,
+          "week5": 203
+        },
+        "Nov-Dec": {
+          "week1": 150,
+          "week2": 321,
+          "week3": 333,
+          "week4": 234,
+          "week5": 203
+        }
       },
       "guest": {
-        "week1": 200,
-        "week2": 321,
-        "week3": 400,
-        "week4": 500,
-        "week5": 324
+        "May-June": {
+          "week1": 200,
+          "week2": 321,
+          "week3": 400,
+          "week4": 500,
+          "week5": 324
+        },
+        "July-Aug": {
+          "week1": 150,
+          "week2": 321,
+          "week3": 333,
+          "week4": 234,
+          "week5": 203
+        },
+        "Sept-Oct": {
+          "week1": 150,
+          "week2": 321,
+          "week3": 333,
+          "week4": 234,
+          "week5": 203
+        },
+        "Nov-Dec": {
+          "week1": 150,
+          "week2": 321,
+          "week3": 333,
+          "week4": 234,
+          "week5": 203
+        }
       }
     }
   },
@@ -230,18 +276,64 @@
     ],
     "activity": {
       "user": {
-        "week1": 150,
-        "week2": 321,
-        "week3": 333,
-        "week4": 234,
-        "week5": 203
+        "May-June": {
+          "week1": 150,
+          "week2": 321,
+          "week3": 333,
+          "week4": 234,
+          "week5": 203
+        },
+        "July-Aug": {
+          "week1": 344,
+          "week2": 111,
+          "week3": 555,
+          "week4": 400,
+          "week5": 300
+        },
+        "Sept-Oct": {
+          "week1": 150,
+          "week2": 321,
+          "week3": 333,
+          "week4": 234,
+          "week5": 203
+        },
+        "Nov-Dec": {
+          "week1": 150,
+          "week2": 321,
+          "week3": 333,
+          "week4": 234,
+          "week5": 203
+        }
       },
       "guest": {
-        "week1": 200,
-        "week2": 321,
-        "week3": 400,
-        "week4": 500,
-        "week5": 324
+        "May-June": {
+          "week1": 200,
+          "week2": 321,
+          "week3": 400,
+          "week4": 500,
+          "week5": 324
+        },
+        "July-Aug": {
+          "week1": 150,
+          "week2": 321,
+          "week3": 333,
+          "week4": 234,
+          "week5": 203
+        },
+        "Sept-Oct": {
+          "week1": 150,
+          "week2": 321,
+          "week3": 333,
+          "week4": 234,
+          "week5": 203
+        },
+        "Nov-Dec": {
+          "week1": 150,
+          "week2": 321,
+          "week3": 333,
+          "week4": 234,
+          "week5": 203
+        }
       }
     }
   }
