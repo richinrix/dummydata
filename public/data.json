@@ -674,5 +674,174 @@
         }
       }
     }
+  },
+  {
+    "firstName": "Bruce",
+    "lastName": "Wayne",
+    "image": "https://robohash.org/bruce.png",
+    "dob": "01/01/1990",
+    "email": "tempblueskyassignment@gmail.com",
+    "password": "fake123;",
+    "address": "123 Fake St",
+    "city": " Fakeville ",
+    "state": " Fake ",
+    "phone": "123-456-7890",
+    "TFA": false,
+    "totalRevenues": 242110,
+    "totalTransactions": 103120,
+    "totalLikes": 143200,
+    "totalUsers": 213,
+    "topProducts": [
+      {
+        "name": "Basic Tees",
+        "percentage": "54.2%"
+      },
+      {
+        "name": "Hoodies",
+        "percentage": "23.1%"
+      },
+      {
+        "name": "Sweatshirts",
+        "percentage": "12.3%"
+      },
+      {
+        "name": "Pants",
+        "percentage": "10.4%"
+      }
+    ],
+    "schedule": [
+      {
+        "title": "Meeting with CEO",
+        "date": "01/01/2019",
+        "time": "12:00 PM",
+        "location": "123 Fake St"
+      },
+      {
+        "title": "Meeting with CTO",
+        "date": "01/01/2019",
+        "time": "1:00 PM",
+        "location": "123 Fake St"
+      }
+    ],
+    "userRecords": [
+      {
+        "name": "Barry Alan",
+        "email": "br@mail ",
+        "gender": "Male",
+        "image": "https://robohash.org/john.png",
+        "adminStat": false
+      },
+      {
+        "name": "Bruce Wayne",
+        "email": "bw@mail ",
+        "gender": "Male",
+        "image": "https://robohash.org/jo2hn.png",
+        "adminStat": true
+      },
+      {
+        "name": "Oliver Queen",
+        "email": "oq@mail ",
+        "gender": "Male",
+        "image": "https://robohash.org/joahn.png",
+        "adminStat": false
+      },
+      {
+        "name": "Iris West",
+        "email": "IW@mail ",
+        "gender": "Female",
+        "image": "https://robohash.org/joh4n.png",
+        "adminStat": true
+      },
+      {
+        "name": "Jim Gordan",
+        "email": "jg@mail ",
+        "gender": "Male",
+        "image": "https://robohash.org/joh2n.png",
+        "adminStat": true
+      },
+      {
+        "name": "Clark Kent",
+        "email": "ck@mail ",
+        "gender": "Male",
+        "image": "https://robohash.org/johhn.png",
+        "adminStat": false
+      },
+      {
+        "name": "John Doe",
+        "email": "j@mail ",
+        "gender": "Male",
+        "image": "https://robohash.org/johan.png",
+        "adminStat": false
+      },
+      {
+        "name": "John Doe",
+        "email": "j@mail ",
+        "gender": "Male",
+        "image": "https://robohash.org/aajohn.png",
+        "adminStat": false
+      }
+    ],
+    "activity": {
+      "user": {
+        "May-June": {
+          "week1": 150,
+          "week2": 321,
+          "week3": 333,
+          "week4": 234,
+          "week5": 203
+        },
+        "July-Aug": {
+          "week1": 344,
+          "week2": 111,
+          "week3": 555,
+          "week4": 400,
+          "week5": 300
+        },
+        "Sept-Oct": {
+          "week1": 150,
+          "week2": 321,
+          "week3": 333,
+          "week4": 234,
+          "week5": 203
+        },
+        "Nov-Dec": {
+          "week1": 200,
+          "week2": 321,
+          "week3": 400,
+          "week4": 500,
+          "week5": 324
+        }
+      },
+      "guest": {
+        "May-June": {
+          "week1": 200,
+          "week2": 321,
+          "week3": 400,
+          "week4": 500,
+          "week5": 324
+        },
+        "July-Aug": {
+          "week1": 150,
+          "week2": 321,
+          "week3": 333,
+          "week4": 234,
+          "week5": 203
+        },
+        "Sept-Oct": {
+          "week1": 200,
+          "week2": 321,
+          "week3": 400,
+          "week4": 500,
+          "week5": 324
+        },
+        "Nov-Dec": {
+          "week1": 150,
+          "week2": 321,
+          "week3": 333,
+          "week4": 234,
+          "week5": 203
+        }
+      }
+    }
   }
 ]
